@@ -9,4 +9,4 @@ The most important part of being a restaurateur is learning that service is king
 You'll be coding your solution in `js/waiter.js`. You'll want to use `prompt` and `alert` to greet you diners (when the page loads), ask them for their orders, etc. (all from the point of view of the server!)
 
 Feel free to get creative here. Maybe instead of the questions and greeting being really polite, they're rude to show the servers how NOT to behave. It's all up to you!
-<a href='https://learn.co/lessons/hs-intro-web-design-restaurant-code-challenge' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/hs-intro-web-design-restaurant-code-challenge' title='Restaurateur'>Restaurateur</a> on Learn.co and start learning to code for free.</p>
